@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	   <title> Minha pagina linda! </title>
+	   <link rel="icon" href="icon.png" type="image/x-icon">
+	    	<!-- Site para pegar imagens para a parte de cima da página: Flaticon-->
+
+	</head>
+	<body>
+	   <center><h1> Da Antártida para as aulas de programação web!🤍🐧</h1></center>
+	   <center><h2> Marina </h2></center>
+
+
+
+		<table style="border:1px solid blue; border-spacing:15px;">
+			<tr> <!--Table row-->
+				<th style= "border:1px solid blue;">NOME</th>
+				<th style= "border:1px solid blue;">COR</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue;">Margarida</th>
+				<th style= "border:1px solid blue;">Branco</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue;">"Rosa</th>
+				<th style= "border:1px solid blue;">Azul</th>	
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue;">Amarilis</th>
+				<th style= "border:1px solid blue;">Vermelha</th>
+				
+			</tr>
+		</table>
+		<br><br>
+
+		<table style="border:1px solid blue;">
+			<tr> <!--Table row-->
+				<th style= "border:1px solid blue; padding-left:15px;">NOME</th>
+				<th style= "border:1px solid blue; padding:15px;">COR</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue; padding:5px;">Margarida</th>
+				<th style= "border:1px solid blue; padding:5px;">Branco</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue; padding:5px;">"Rosa</th>
+				<th style= "border:1px solid blue; padding:5px;">Azul</th>	
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue; padding:5px;">Amarilis</th>
+				<th style= "border:1px solid blue; padding:5px;">Vermelha</th>
+				
+			</tr>
+		</table>
+
+		<br><br>
+
+		<table style="border:1px solid blue; border-collapse: collapse;">
+			<tr> <!--Table row-->
+				<th style= "border:1px solid blue;">NOME</th>
+				<th style= "border:1px solid blue; ;">COR</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue; ">Margarida</th>
+				<th style= "border:1px solid blue; ">Branco</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue; ">"Rosa</th>
+				<th style= "border:1px solid blue; ">Azul</th>	
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid blue; ">Amarilis</th>
+				<th style= "border:1px solid blue; ">Vermelha</th>
+				
+			</tr>
+		</table>
+          
+
+		<br><br>
+
+		<table style="border:3px solid red; border-collapse: collapse;">
+			<tr> <!--Table row-->
+				<th style= "border:1px solid red; padding:15px;">NOME</th>
+				<th style= "border:1px solid red; padding:15px;">COR</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid red; padding:5px; ">Margarida</th>
+				<th style= "border:1px solid red;  padding:5px;">Branco</th>
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid red;  padding:5px;">Rosa</th>
+				<th style= "border:1px solid red;  padding:5px;">Azul</th>	
+			</tr>
+
+			<tr>
+				<th style= "border:1px solid red;  padding:5px;">Amarilis</th>
+				<th style= "border:1px solid red;  padding:5px;">Vermelha</th>
+				
+			</tr>
+		</table>
+          
+           <h3>O que é um pinguim?</h3>
+ 	   <p>Os pinguins são aves marinhas que não voam e que podem ser encontradas na <ins>Antártida, Nova Zelândia, sul da África, Austrália e América do Sul.</ins> Bons caçadores, os pinguins se alimentam de <mark>crustáceos, moluscos, peixes e pequenos animais marinhos</mark>. Todas as espécies possuem o peito branco com as costas e a cabeça na cor preta. Nas patas dos pinguins, podemos encontrar quatro dedos unidos por uma membrana, o que ajuda muito durante a natação do animal. Por serem aves, esses animais possuem penas, mas elas são mais curtas e ocorrem em maior número do que nas outras aves. Esses animais mudam as penas duas vezes ao ano, e durante essa muda eles não entram na água.</p>
+	
+
+	   <a href="https://youtu.be/A9mbCNs47FI" > 👉 Veja um pinguim nadando</a>
+	   <br><br>
+
+	   <p><strong>Espécies de Pinguins:</strong></p>
+	   <ul>
+        <!-- <ol></ol> Lista ordenada(substituir no local que possui ul)-->
+        <!-- <Ol type= "1", "A", "a"< "I"> Tipo de ordenação-->
+        <!-- <Ol type= "1", "A", "a"< "I" start= "5"> Tipo de ordenação-->
+
+		<li>Pinguim-imperador <em>(Aptenodytes forsteri)</em></li>
+        <!-- lista dentro de lista gera uma sublista-->
+		<li>Pinguim-rei <em>(Aptenodytes patagonicus)</em></li>
+		<li>Pinguim-real <em>(Eudyptes schlegeli)</em></li>
+	   </ul>
+	   <img src="icon2.jpeg">
+    
+	   
+	<h3> Reprodução dos pinguins?</h3>
+ 	   <p>Os pinguins são <abbr title="que dá mostras de lealdade, que não contraria a confiança depositada; leal, devotado.">FIEL</abbr> a seus parceiros na maioria das espécies. No período de reprodução, o mesmo casal se une a cada estação. O encontro é marcado pela dança nupcial, que representa a união do casal. O macho faz a oferta de pedras para a construção do ninho e com a aceitação da fêmea ocorre a cópula.</p>
+
+		<!--<del></del> para o texto ficar riscado -->
+		<!-- <ins></ins> sublinhado-->
+		<!-- <sub></sub> o texto fica sobreescrito (desce)-->
+		<!-- <sup></sup> o texto fica superescrito (sobe)-->
+		<!-- <blockquote></blockquote> Para ficar com a margem diferente em citação-->
+		<!-- <q></q> Para ficar entre aspas-->
+		<!-- <bdo dir="rtl"> inverted </bdo> Para inverter o texto-->
+
+
+		<p><abbr title="Hypertext Markup Language">HTML</abbr></p>
+		<br><br><br>
+		<table style="border:1px solid blue;">
+			<tr> <!--Table row-->
+				<th style="border:1px solid blue;>NOME</th>
+				<th style="border:1px solid blue;>COR</th>
+
+			</tr>
+			<tr>
+				<th style="border:1px solid blue;>Margarida</th>
+				<th style="border:1px solid blue;>Branco</th>
+				
+			</tr>
+			<tr>
+				<th style="border:1px solid blue;>Rosa</th>
+				<th style="border:1px solid blue;>Azul</th>
+				
+			</tr>
+			<tr>
+				<th style="border:1px solid blue;>Amarilis</th>
+				<th style="border:1px solid blue;>Vermelha</th>
+				
+			</tr>
+		</table>
+
+
+	</body>
+
+</html>
